@@ -1,0 +1,33 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="#000"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <!-- Wheels -->
+  <circle cx="18" cy="44" r="8" />
+  <circle cx="46" cy="44" r="8" />
+
+  <!-- Frame -->
+  <path d="M18 44 L26 32 L36 32 L46 44" />
+
+  <!-- Seat -->
+  <path d="M28 30 L36 30" />
+
+  <!-- Tank -->
+  <path d="M26 32 C28 26, 38 26, 40 32" />
+
+  <!-- Handlebar -->
+  <path d="M38 26 L44 22" />
+
+  <!-- Front fork -->
+  <path d="M44 22 L46 36" />
+
+  <!-- Exhaust -->
+  <path d="M30 36 L38 38" />
+</svg>

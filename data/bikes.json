@@ -1,0 +1,211 @@
+{
+  "bikes": [
+    {
+      "id": 1,
+      "name": "Desert X Rally",
+      "brand": "Ducati",
+      "category": "adventure",
+      "price": 550,
+      "priceWeek": 3300,
+      "priceMonth": 12000,
+      "capacity": "937cc",
+      "power": "110 KM",
+      "year": 2024,
+      "image": "/img/bikes/ducati-desert-x-rally.jpg",
+      "available": true,
+      "description": "Najnowsza wersja legendarnego Ducati Desert X, stworzona do ekstremalnych wypraw terenowych. Silnik Testastretta o pojemności 937cc generuje 110 KM mocy, zapewniając doskonałą dynamikę w każdych warunkach. Wyposażony w zawieszenie o długim skoku (230mm przód/220mm tył) i szprychowe koła, idealnie radzi sobie zarówno na asfalcie, jak i bezdrożach.",
+      "specs": {
+        "pojemność": "937 cm³",
+        "moc": "110 KM przy 9250 obr/min",
+        "moment": "92 Nm przy 6500 obr/min",
+        "masa": "223 kg",
+        "siedzisko": "875 mm",
+        "zbiornik": "21 l"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ténéré 700 Extreme",
+      "brand": "Yamaha",
+      "category": "adventure",
+      "price": 450,
+      "priceWeek": 2700,
+      "priceMonth": 9800,
+      "capacity": "689cc",
+      "power": "72 KM",
+      "year": 2024,
+      "image": "/img/bikes/yamaha-tenere-700-extreme.jpg",
+      "available": true,
+      "description": "Ekstremalna wersja kultowej Ténéré 700, przygotowana do najtrudniejszych warunków off-roadowych. Dwucylindrowy silnik CP2 o pojemności 689cc zapewnia niezawodność i znakomity moment obrotowy. Zawieszenie z długim skokiem (230mm przód/220mm tył) i wysoki prześwit 260mm pozwalają pokonywać każdy teren.",
+      "specs": {
+        "pojemność": "689 cm³",
+        "moc": "72 KM przy 9000 obr/min",
+        "moment": "68 Nm przy 6500 obr/min",
+        "masa": "205 kg",
+        "siedzisko": "910 mm",
+        "zbiornik": "16 l"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Tracer 900 GT",
+      "brand": "Yamaha",
+      "category": "touring",
+      "price": 380,
+      "priceWeek": 2280,
+      "priceMonth": 8500,
+      "capacity": "847cc",
+      "power": "115 KM",
+      "year": 2020,
+      "image": "/img/bikes/yamaha-tracer-900-gt.jpg",
+      "available": true,
+      "description": "Wszechstronny turystyczny motocykl z kultowym trzycylindrowym silnikiem Yamaha. Wersja GT wyposażona w kufry boczne, podgrzewane manetki i zaawansowaną elektronikę. Oferuje 115 KM mocy i wyjątkowy komfort na długich trasach. Doskonały wybór na dalekie podróże.",
+      "specs": {
+        "pojemność": "847 cm³",
+        "moc": "115 KM przy 10000 obr/min",
+        "moment": "87,5 Nm przy 8500 obr/min",
+        "masa": "215 kg",
+        "siedzisko": "850 mm",
+        "zbiornik": "18 l"
+      }
+    },
+    {
+      "id": 4,
+      "name": "M 1000 R",
+      "brand": "BMW",
+      "category": "sport",
+      "price": 650,
+      "priceWeek": 3900,
+      "priceMonth": 14000,
+      "capacity": "999cc",
+      "power": "210 KM",
+      "year": 2024,
+      "image": "/img/bikes/bmw-m1000r.jpg",
+      "available": true,
+      "description": "Bestia z linii M Performance - naked bike z sercem z superbike'a S 1000 RR. Czterocylindrowy silnik generuje oszałamiające 210 KM mocy. Wyposażony w pełny pakiet elektroniki M: M Dynamic Mode, M GPS Laptrigger, M Carbon części. Dla doświadczonych kierowców szukających ekstremalnych wrażeń.",
+      "specs": {
+        "pojemność": "999 cm³",
+        "moc": "210 KM przy 13750 obr/min",
+        "moment": "113 Nm przy 11000 obr/min",
+        "masa": "199 kg",
+        "siedzisko": "830 mm",
+        "zbiornik": "16,5 l"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Z650",
+      "brand": "Kawasaki",
+      "category": "naked",
+      "price": 280,
+      "priceWeek": 1680,
+      "priceMonth": 6000,
+      "capacity": "649cc",
+      "power": "67 KM",
+      "year": 2021,
+      "image": "/img/bikes/kawasaki-z650.jpg",
+      "available": true,
+      "description": "Idealny motocykl dla początkujących i średniozaawansowanych. Dwucylindrowy silnik o pojemności 649cc oferuje przyjazne 67 KM w lekkiej, zwinnej ramie. Niska masa 187 kg i ergonomiczna pozycja siedzenia czynią go łatwym w prowadzeniu. Świetny wybór na kategorię A2.",
+      "specs": {
+        "pojemność": "649 cm³",
+        "moc": "67 KM przy 8000 obr/min",
+        "moment": "65,7 Nm przy 6500 obr/min",
+        "masa": "187 kg",
+        "siedzisko": "790 mm",
+        "zbiornik": "15 l"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Motocykl 125 (wkrótce)",
+      "brand": "Honda",
+      "category": "beginner",
+      "price": 150,
+      "priceWeek": 900,
+      "priceMonth": 3200,
+      "capacity": "125cc",
+      "power": "15 KM",
+      "year": 2024,
+      "image": "/img/bikes/honda-125.jpg",
+      "available": false,
+      "description": "Wkrótce w naszej ofercie! Idealny motocykl na kategorię A1 lub B z uprawnieniem na 125cc. Ekonomiczny, łatwy w prowadzeniu i doskonały na start przygody z motocyklami. Szczegóły wkrótce.",
+      "specs": {
+        "pojemność": "125 cm³",
+        "moc": "~15 KM",
+        "moment": "~12 Nm",
+        "masa": "~130 kg",
+        "siedzisko": "~780 mm",
+        "zbiornik": "~11 l"
+      }
+    },
+    {
+      "id": 7,
+      "name": "140 RC-Z",
+      "brand": "MRF PitBike",
+      "category": "pitbike",
+      "price": 180,
+      "priceWeek": 1080,
+      "priceMonth": 3800,
+      "capacity": "140cc",
+      "power": "14 KM",
+      "year": 2024,
+      "image": "/img/bikes/mrf-140rc-z.jpg",
+      "available": true,
+      "description": "Profesjonalny pitbike MRF z fabrycznym tuningiem. Wałek rozrządu Z40 i lekkie magneto zapewniają 14 KM mocy. Regulowane zawieszenie przód/tył, wzmocnione hamulce hydrauliczne. Idealny na tory pit bike i zabawę terenową. Koła 14/12 cali.",
+      "specs": {
+        "pojemność": "140 cm³",
+        "moc": "14 KM",
+        "moment": "~11 Nm",
+        "masa": "70 kg",
+        "siedzisko": "830 mm",
+        "zbiornik": "5,1 l"
+      }
+    },
+    {
+      "id": 8,
+      "name": "140 SM Supermoto",
+      "brand": "MRF PitBike",
+      "category": "pitbike",
+      "price": 180,
+      "priceWeek": 1080,
+      "priceMonth": 3800,
+      "capacity": "140cc",
+      "power": "14 KM",
+      "year": 2024,
+      "image": "/img/bikes/mrf-140sm.jpg",
+      "available": true,
+      "description": "Wersja supermoto pitbike'a MRF 140. Koła supermoto 12/12 cali z oponami drogowymi zapewniają świetną przyczepność na asfalcie. Ten sam mocny silnik 140cc z tuningiem fabrycznym. Doskonały do slalomów i jazdy po parkingach.",
+      "specs": {
+        "pojemność": "140 cm³",
+        "moc": "14 KM",
+        "moment": "~11 Nm",
+        "masa": "68 kg",
+        "siedzisko": "760 mm",
+        "zbiornik": "3,8 l"
+      }
+    },
+    {
+      "id": 9,
+      "name": "SM 125",
+      "brand": "YCF PitBike",
+      "category": "pitbike",
+      "price": 160,
+      "priceWeek": 960,
+      "priceMonth": 3400,
+      "capacity": "125cc",
+      "power": "10 KM",
+      "year": 2024,
+      "image": "/img/bikes/ycf-125sm.jpg",
+      "available": true,
+      "description": "Lekki i zwinny pitbike YCF w wersji supermoto. Silnik 125cc o mocy ok. 10 KM, idealny dla początkujących. Koła 12/12 cali, hamulce hydrauliczne. Świetna opcja na naukę jazdy sportowej lub zabawę weekendową.",
+      "specs": {
+        "pojemność": "125 cm³",
+        "moc": "~10 KM",
+        "moment": "~9 Nm",
+        "masa": "67 kg",
+        "siedzisko": "780 mm",
+        "zbiornik": "3,8 l"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+<svg
+  width="64"
+  height="64"
+  viewBox="0 0 64 64"
+  xmlns="http://www.w3.org/2000/svg"
+  fill="none"
+  stroke="#000"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <!-- Gear (top-right) -->
+  <circle cx="44" cy="20" r="6" />
+  <path d="M44 11 V14" />
+  <path d="M44 26 V29" />
+  <path d="M35 20 H38" />
+  <path d="M50 20 H53" />
+  <path d="M38 14 L40 16" />
+  <path d="M48 24 L50 26" />
+  <path d="M38 26 L40 24" />
+  <path d="M48 16 L50 14" />
+  <circle cx="44" cy="20" r="2" />
+
+  <!-- Wrench (diagonal) -->
+  <path d="M20 46 L36 30" />
+  <path d="M18 48 L16 50" />
+  <path d="M22 44 L24 42" />
+
+  <!-- Wrench head (open jaw) -->
+  <path d="M36 30
+           C38 28, 41 28, 43 30
+           L41 32
+           C40 31, 39 31, 38 32
+           Z" />
+
+  <!-- Wrench handle end -->
+  <path d="M14 52 L18 48" />
+  <circle cx="14" cy="52" r="1.5" />
+</svg>
